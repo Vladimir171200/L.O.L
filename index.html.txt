@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Заголовок вашей страницы</title>
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Добро пожаловать на мою страницу!</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">О нас</a></li>
+                <li><a href="#contact">Контакты</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>О нас</h2>
+            <p>Текст.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Свяжитесь с нами</h2>
+            <p>Контактная информация.</p>
+        </section>
+    </main>
+</body>
+</html>
